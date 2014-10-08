@@ -1,6 +1,26 @@
 //	ApiWebSockets.cpp
 //
 //	Collection of objects and functions to expose the Cambrian APIs via WebSockets.
+
+//	ApiWebSockets.cpp
+//
+//	Collection of objects and functions to expose the Cambrian APIs via WebSockets.
+
+//	ApiWebSockets.cpp
+//
+//	Collection of objects and functions to expose the Cambrian APIs via WebSockets.
+
+//	ApiWebSockets.cpp
+//
+//	Collection of objects and functions to expose the Cambrian APIs via WebSockets.
+
+//	ApiWebSockets.cpp
+//
+//	Collection of objects and functions to expose the Cambrian APIs via WebSockets.
+
+//	ApiWebSockets.cpp
+//
+//	Collection of objects and functions to expose the Cambrian APIs via WebSockets.
 //
 #ifndef PRECOMPILEDHEADERS_H
 	#include "PreCompiledHeaders.h"
