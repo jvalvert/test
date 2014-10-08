@@ -261,3 +261,17 @@ OTHER_FILES += \
 RESOURCES += \
     Resources.qrc
 
+
+# ------------------------------------
+#
+#         Agregado en la rama
+#
+# -------------------------------------
+
+LIBS += otapi otjorge otcambrian
+
+INCLUDEPATH +=  ../../otjorge/include
+INCLUDEPATH +=  ../../otdan/include
+INCLUDEPATH +=  ../../otcambrian/include
+
+
